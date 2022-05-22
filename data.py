@@ -3,7 +3,7 @@ import requests
 
 
 params = {
-    'amount':100,
+    'amount':5,
     'type': 'boolean',
 
 }
